@@ -5,4 +5,4 @@ server:
     type: http
     port: 9999
 swagger:
-  resourcePackage: io.federecio.dropwizard.swagger.sample
+  resourcePackage: io.federecio.dropwizard.swagger.sample.resources

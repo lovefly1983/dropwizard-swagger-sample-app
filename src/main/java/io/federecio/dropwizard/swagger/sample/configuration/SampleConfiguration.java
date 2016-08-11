@@ -1,4 +1,4 @@
-package io.federecio.dropwizard.swagger.sample;
+package io.federecio.dropwizard.swagger.sample.configuration;
 
 import com.fasterxml.jackson.annotation.JsonProperty;
 import io.dropwizard.Configuration;
